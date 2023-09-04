@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mVneE9Z7YE3Yn8XwGZXRoQRy36LVjzXwAI4RNz22ZFkIdOOgBBjWApdWmPiu7kN0qhjau1n/RPYluE8ATjK9YQ==",
+  "dgSpecHash": "5Bu1BiyLyvfjWUew3P3X/cIckPkTnd+NtS/cFrbx4goF/EQxreg8j9TCyrF5bnImnu99MconzKXklr1vW4XnIA==",
   "success": true,
-  "projectFilePath": "/Users/akanumoren/Projects/MineField/MineField.Tests/MineField.Tests.csproj",
+  "projectFilePath": "/Users/akanumoren/Documents/GitHub/MineField/MineField.Tests/MineField.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/akanumoren/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/akanumoren/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",

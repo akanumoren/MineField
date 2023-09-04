@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "al9GeXV2YNyAHfKzJRMQEeiR8E4LDRj82FTwLJ+QTALhd0/4rekBFQjlIta/mfHeDs1nc42fZ7vxPnEblhbyXg==",
+  "dgSpecHash": "S1qUPChNV2PTohLOzt0qAFoeANb2p+mWVJAeVlvNpAeUTXhZuOX8EuzY1piTWZhrxJ4RPqorGNtOiK12WlWlYg==",
   "success": true,
-  "projectFilePath": "/Users/akanumoren/Projects/MineField/MineField/MineField.csproj",
+  "projectFilePath": "/Users/akanumoren/Documents/GitHub/MineField/MineField/MineField.csproj",
   "expectedPackageFiles": [
     "/Users/akanumoren/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/akanumoren/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

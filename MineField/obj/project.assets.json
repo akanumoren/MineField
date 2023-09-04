@@ -1548,11 +1548,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akanumoren/Projects/MineField/MineField/MineField.csproj",
+      "projectUniqueName": "/Users/akanumoren/Documents/GitHub/MineField/MineField/MineField.csproj",
       "projectName": "MineField",
-      "projectPath": "/Users/akanumoren/Projects/MineField/MineField/MineField.csproj",
+      "projectPath": "/Users/akanumoren/Documents/GitHub/MineField/MineField/MineField.csproj",
       "packagesPath": "/Users/akanumoren/.nuget/packages/",
-      "outputPath": "/Users/akanumoren/Projects/MineField/MineField/obj/",
+      "outputPath": "/Users/akanumoren/Documents/GitHub/MineField/MineField/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/akanumoren/.nuget/NuGet/NuGet.Config"
@@ -1569,8 +1569,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/akanumoren/Projects/MineField/MineField.Core/MineField.Core.csproj": {
-              "projectPath": "/Users/akanumoren/Projects/MineField/MineField.Core/MineField.Core.csproj"
+            "/Users/akanumoren/Documents/GitHub/MineField/MineField.Core/MineField.Core.csproj": {
+              "projectPath": "/Users/akanumoren/Documents/GitHub/MineField/MineField.Core/MineField.Core.csproj"
             }
           }
         }

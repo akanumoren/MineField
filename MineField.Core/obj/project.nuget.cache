@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nKSlTVVMRNUW9neVjrSbjKCIgBAHFMiWcptZJ2nTu5DaPTHO6y7/a4MtLqXFd3KyXe1X9n67c3BlIySr2bKkcA==",
+  "dgSpecHash": "HmGVbva2aGW3MGQnaCPamiU6caei7HxiKTNr15mLR7uJEYzIdK6E0CpWgotCU989wZrgONEWSDJ4mtfToxQHlQ==",
   "success": true,
-  "projectFilePath": "/Users/akanumoren/Projects/MineSweeper3/MineField.Core/MineField.Core.csproj",
+  "projectFilePath": "/Users/akanumoren/Documents/GitHub/MineField/MineField.Core/MineField.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

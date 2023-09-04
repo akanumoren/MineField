@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/akanumoren/Projects/MineSweeper3/MineField.Core/MineField.Core.csproj": {}
+    "/Users/akanumoren/Documents/GitHub/MineField/MineField.Core/MineField.Core.csproj": {}
   },
   "projects": {
-    "/Users/akanumoren/Projects/MineSweeper3/MineField.Core/MineField.Core.csproj": {
+    "/Users/akanumoren/Documents/GitHub/MineField/MineField.Core/MineField.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/akanumoren/Projects/MineSweeper3/MineField.Core/MineField.Core.csproj",
+        "projectUniqueName": "/Users/akanumoren/Documents/GitHub/MineField/MineField.Core/MineField.Core.csproj",
         "projectName": "MineField.Core",
-        "projectPath": "/Users/akanumoren/Projects/MineSweeper3/MineField.Core/MineField.Core.csproj",
+        "projectPath": "/Users/akanumoren/Documents/GitHub/MineField/MineField.Core/MineField.Core.csproj",
         "packagesPath": "/Users/akanumoren/.nuget/packages/",
-        "outputPath": "/Users/akanumoren/Projects/MineSweeper3/MineField.Core/obj/",
+        "outputPath": "/Users/akanumoren/Documents/GitHub/MineField/MineField.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/akanumoren/.nuget/NuGet/NuGet.Config"
